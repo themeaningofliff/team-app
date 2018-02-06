@@ -1,0 +1,17 @@
+/Users/main/Development/team-app/team-app/bin/Debug/team-app.dll
+/Users/main/Development/team-app/team-app/bin/Debug/team-app.pdb
+/Users/main/Development/team-app/team-app/bin/Debug/Xamarin.Forms.Core.dll
+/Users/main/Development/team-app/team-app/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/main/Development/team-app/team-app/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/main/Development/team-app/team-app/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/main/Development/team-app/team-app/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/main/Development/team-app/team-app/bin/Debug/Xamarin.Forms.Core.xml
+/Users/main/Development/team-app/team-app/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/main/Development/team-app/team-app/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/main/Development/team-app/team-app/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/main/Development/team-app/team-app/obj/Debug/team-app.csprojResolveAssemblyReference.cache
+/Users/main/Development/team-app/team-app/obj/Debug/team-app.csproj.CoreCompileInputs.cache
+/Users/main/Development/team-app/team-app/obj/Debug/teamapp.App.xaml.g.cs
+/Users/main/Development/team-app/team-app/obj/Debug/teamapp.team-appPage.xaml.g.cs
+/Users/main/Development/team-app/team-app/obj/Debug/team-app.dll
+/Users/main/Development/team-app/team-app/obj/Debug/team-app.pdb

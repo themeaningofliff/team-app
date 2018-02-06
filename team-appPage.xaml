@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:teamapp" 
+             x:Class="teamapp.team_appPage">
+    <StackLayout IsClippedToBounds="false" VerticalOptions="FillAndExpand" HorizontalOptions="Center" >
+           <Label Text="Enter Event Information!"/>
+           <Label Text="Event Date"></Label>
+            <DatePicker x:Name="eDate"></DatePicker> 
+            <Label Text="Your Score"></Label>
+            <Entry Keyboard="Numeric" x:Name="epScore" Placeholder="0"></Entry>
+            <Label Text="Opponent Score"></Label>
+            <Entry Keyboard="Numeric" x:Name="eoScore" Placeholder="0"></Entry>
+            <Label Text="Opponent Name/Email"></Label>
+            <Entry Keyboard="Email" x:Name="eoEmail" Placeholder="bob.dole@dole.gov"></Entry>
+            <Button Clicked="Handle_Clicked" Text="Submit"></Button>
+    </StackLayout>
+</ContentPage>
+
